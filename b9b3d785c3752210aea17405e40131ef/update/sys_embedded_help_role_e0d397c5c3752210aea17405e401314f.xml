@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_711510_cricbuzz.cricbuzz_veiwer" name="x_711510_cricbuzz.cricbuzz_veiwer">68d397c5c3752210aea17405e401314c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:39:16</sys_created_on>
+        <sys_id>e0d397c5c3752210aea17405e401314f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>68d397c5c3752210aea17405e401314c</sys_name>
+        <sys_package display_value="Cricbuzz" source="x_711510_cricbuzz">b9b3d785c3752210aea17405e40131ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cricbuzz">b9b3d785c3752210aea17405e40131ef</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e0d397c5c3752210aea17405e401314f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:39:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (User)">18049bc5c3752210aea17405e4013119</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (User)</name>
+        <order/>
+        <parent>40049bc5c3752210aea17405e401310b</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:40:03</sys_created_on>
+        <sys_id>d0049bc5c3752210aea17405e401312f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (User)</sys_name>
+        <sys_package display_value="Cricbuzz" source="x_711510_cricbuzz">b9b3d785c3752210aea17405e40131ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cricbuzz">b9b3d785c3752210aea17405e40131ef</sys_scope>
+        <sys_update_name>sys_sg_button_instance_d0049bc5c3752210aea17405e401312f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:40:03</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d0049bc5c3752210aea17405e401312f"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (User)">94049bc5c3752210aea17405e4013138</button>
+        <item_parameter display_value="User active">58049bc5c3752210aea17405e4013134</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 14:40:04</sys_created_on>
+        <sys_id>dc049bc5c3752210aea17405e401313d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>58049bc5c3752210aea17405e4013134</sys_name>
+        <sys_package display_value="Cricbuzz" source="x_711510_cricbuzz">b9b3d785c3752210aea17405e40131ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cricbuzz">b9b3d785c3752210aea17405e40131ef</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_dc049bc5c3752210aea17405e401313d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 14:40:04</sys_updated_on>
+        <ui_parameter display_value="Active">d0049bc5c3752210aea17405e4013139</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
